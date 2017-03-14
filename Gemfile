@@ -32,6 +32,7 @@ group :development, :test do
   gem 'byebug', platform: :mri
   gem 'factory_girl_rails'
   gem 'pry'
+  gem 'faker'
 end
 
 group :development do
